@@ -1,0 +1,71 @@
+1 clone
+crear carperta
+2 git clone url proyecto main
+copia exacta
+3 se hacen modificaciones
+
+4 saber ramas 
+git branch
+No master no se toca
+
+5 crear rama.
+git branch jesus
+git branch
+
+6 ubicarce
+git checkout jesus
+
+7 git branch
+
+8 enviar rama creada al gitchu y yo sepa 
+
+
+9 git push --set-upstream origin jesus
+
+10 crea dos ramas y la master queda igual 
+
+________________________________________________
+/// añadir nueva funcionalidad
+
+ git status
+
+git add -A
+
+git commit -m " "
+
+git push
+
+--------
+pasar esa rama a principal
+
+brand  new pull request y el asunto 
+
+ para hacer el marge
+
+el dueño va a pull request
+
+darle el mar pull request
+per miramos con add yuo rewi
+
+rewi chane
+
+aprove
+
+________________
+
+si el espera el lo hace
+se une la rama jesus con la rama master
+el borra rama
+
+estar en master
+git branch
+
+git checkout master
+
+git branch -d jesus
+
+git push origin :jesus
+
+
+
+
